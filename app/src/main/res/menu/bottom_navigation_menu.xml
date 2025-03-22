@@ -1,0 +1,23 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_recipes"
+        android:icon="@drawable/recipes"
+        android:title="Recipes" />
+    <item
+        android:id="@+id/nav_plans"
+        android:icon="@drawable/plans"
+        android:title="Plans" />
+    <item
+        android:id="@+id/nav_grocery"
+        android:icon="@drawable/grocerybasket"
+        android:title="Grocery" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/user"
+        android:title="Profile" />
+</menu>

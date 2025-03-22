@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MealMate</string>
+    <string name="edit_profile_coming_soon">Edit Profile functionality coming soon</string>
+    <string name="photo_edit_coming_soon">Photo editing functionality coming soon</string>
+    <string name="account_settings_coming_soon">Account settings functionality coming soon</string>
+    <string name="notifications_coming_soon">Notifications settings functionality coming soon</string>
+    <string name="appearance_coming_soon">Appearance settings functionality coming soon</string>
+    <string name="help_support_coming_soon">Help &amp; Support functionality coming soon</string>
+
+    <!-- Login and Registration -->
+    <string name="app_logo">MealMate Logo</string>
+    <string name="welcome_to_mealmate">Welcome to MealMate</string>
+    <string name="login_to_continue">Please login to continue</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="register_to_get_started">Register to get started</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Password Reset -->
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="reset_email_sent">Password reset email sent</string>
+    <string name="reset_email_error">Failed to send reset email</string>
+
+    <!-- Profile -->
+    <string name="user_name_placeholder">John Doe</string>
+    <string name="email_placeholder">example@email.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="edit_profile_photo">Edit profile photo</string>
+    <string name="profile">Profile</string>
+    <string name="recipes">Recipes</string>
+    <string name="meal_plans">Meal Plans</string>
+    <string name="shops_completed">Shops Completed</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="appearance">Appearance</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="navigate_to">Navigate to</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation_title">Logout</string>
+    <string name="logout_confirmation_message">Are you sure you want to log out?</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="recipes_nav">Recipes</string>
+    <string name="plans">Plans</string>
+    <string name="grocery">Grocery</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="ok">OK</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_processing_image">Error processing image. Please try again.</string>
+
+    <!-- Dialog Titles -->
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_title_warning">Warning</string>
+    <string name="dialog_title_success">Success!</string>
+    <string name="dialog_title_info">Information</string>
+
+    <!-- Dialog Buttons -->
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_no">No</string>
+    <string name="dialog_button_retry">Retry</string>
+    <string name="dialog_button_continue">Continue</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_understood">Understood</string>
+    <string name="dialog_button_close">Close</string>
+
+    <!-- Dialog Messages -->
+    <string name="dialog_message_delete_confirmation">Are you sure you want to delete this item? This action cannot be undone.</string>
+    <string name="dialog_message_discard_changes">You have unsaved changes. Are you sure you want to discard them?</string>
+    <string name="dialog_message_recipe_delete_confirmation">Are you sure you want to delete this recipe? This cannot be undone.</string>
+    <string name="dialog_message_image_error">There was a problem loading the image. Please try again.</string>
+    <string name="dialog_message_connection_error">Couldn\'t connect to server. Please check your internet connection and try again.</string>
+
+    <!-- Recipe Dialog Specific -->
+    <string name="dialog_message_no_ingredients">Please add at least one ingredient to your recipe.</string>
+    <string name="dialog_message_no_instructions">Please add instructions to your recipe.</string>
+    <string name="dialog_message_upload_success">Recipe uploaded successfully!</string>
+    <string name="dialog_message_upload_failed">Failed to upload recipe. Please try again.</string>
+
+    <!-- Meal Planning -->
+    <string name="add_recipe">Add Recipe</string>
+    <string name="add_to_plan">Add to Plan</string>
+    <string name="add_to_grocery">Add to Grocery List</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="preparation_time">Preparation Time</string>
+    <string name="cooking_time">Cooking Time</string>
+    <string name="servings">Servings</string>
+
+    <!-- Grocery List -->
+    <string name="add_item">Add Item</string>
+    <string name="delegate_list">Delegate List</string>
+    <string name="mark_purchased">Mark as Purchased</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="share_list">Share List</string>
+    <string name="total_cost">Total Cost</string>
+
+    <!-- Errors and Messages -->
+    <string name="login_failed">Login failed. Please check your credentials.</string>
+    <string name="registration_failed">Registration failed. Please try again.</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Please enter a valid email address</string>
+    <string name="weak_password">Password should be at least 6 characters</string>
+    <string name="network_error">Network error. Please check your connection.</string>
+    <string name="functionality_coming_soon">This functionality is coming soon</string>
+
+    <!-- Recipe Related -->
+    <string name="featured_recipes">Featured Recipes</string>
+    <string name="all_recipes">All Recipes</string>
+    <string name="search_recipes">Search recipes</string>
+    <string name="no_recipes_found">No Recipes Found</string>
+    <string name="no_recipes_hint">Add your first recipe by clicking the + button</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="favorite">Favorite</string>
+    <string name="total_time_format">%d min</string>
+    <string name="prep_time_format">Prep: %d min</string>
+    <string name="cook_time_format">Cook: %d min</string>
+    <string name="servings_format">Serves: %d</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="recipe_description">Brief Description</string>
+    <string name="prep_time_min">Prep Time (min)</string>
+    <string name="cook_time_min">Cook Time (min)</string>
+    <string name="unit">Unit</string>
+    <string name="ingredient_name">Ingredient</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="delete_ingredient">Delete Ingredient</string>
+    <string name="add_image">Add Image</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="instructions_hint">Enter step-by-step instructions (separate steps with blank lines)</string>
+    <string name="tags">Tags</string>
+    <string name="add_tag">Add a tag</string>
+    <string name="add">Add</string>
+    <string name="prep_time">Preparation Time</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="edit_recipe">Edit Recipe</string>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="delete_recipe_confirmation">Are you sure you want to delete this recipe? This action cannot be undone.</string>
+    <string name="recipe_added_success">Recipe added successfully!</string>
+    <string name="recipe_updated_success">Recipe updated successfully!</string>
+    <string name="no_ingredients_error">Please add at least one ingredient</string>
+    <string name="invalid_number">Please enter a valid number</string>
+    <string name="add_to_grocery_list_success">Ingredients added to grocery list</string>
+
+    <!-- Grocery Fragment -->
+    <string name="grocery_list">Grocery List</string>
+    <string name="total_cost_value">Total: $%.2f</string>
+    <string name="clear_completed">Clear Completed</string>
+    <string name="empty_grocery_list">Your grocery list is empty</string>
+    <string name="empty_grocery_message">Add items to your grocery list by tapping the + button</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="invalid_quantity">Quantity must be at least 1</string>
+    <string name="invalid_price">Please enter a valid price</string>
+    <string name="delegate_shopping">Delegate Shopping</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="optional_message">Optional Message</string>
+    <string name="default_delegation_message">Here\'s the grocery list I need. Thanks for helping!</string>
+    <string name="grocery_preview">Preview</string>
+    <string name="grocery_list_header">GROCERY LIST</string>
+    <string name="send">Send</string>
+    <string name="invalid_phone">Please enter a valid phone number</string>
+    <string name="delegation_success">List shared successfully</string>
+    <string name="sms_send_error">Failed to send SMS</string>
+    <string name="sms_permission_denied">SMS permission required to share list</string>
+    <string name="confirm_clear_completed">Are you sure you want to clear all completed items?</string>
+    <string name="yes">Yes</string>
+    <string name="add_grocery_item">Add Grocery Item</string>
+    <string name="edit_grocery_item">Edit Grocery Item</string>
+    <string name="confirm_delete_item">Are you sure you want to delete this item?</string>
+    <string name="empty_grocery_list_message">Add items to your grocery list by tapping the + button</string>
+    <string name="clear">Clear</string>
+    <string name="share">Share</string>
+    <string name="share_grocery_list">Share Grocery List</string>
+    <string name="enter_phone_number">Enter the phone number to share with</string>
+    <string name="share_grocery_hint">The grocery list will be shared via SMS</string>
+    <string name="error_no_sms_app">No SMS app found on this device.</string>
+    <!-- Validation Errors -->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_quantity">Quantity must be greater than 0</string>
+    <string name="error_invalid_price">Please enter a valid price</string>
+
+    <!-- Import/Export Related -->
+    <string name="export_recipes">Export Recipes</string>
+    <string name="import_recipes">Import Recipes</string>
+    <string name="export_success">Recipes exported successfully</string>
+    <string name="import_success">Recipes imported successfully</string>
+    <string name="export_error">Failed to export recipes</string>
+    <string name="import_error">Failed to import recipes</string>
+    <string name="select_file">Select File</string>
+    <string name="file_picker_error">Error opening file picker</string>
+    <string name="storage_permission_required">Storage permission is required to import/export recipes</string>
+    <!-- Meal Plans Section -->
+    <string name="plan_your_meals">Plan your meals for the week</string>
+    <string name="no_meal_plans">No meal plans yet</string>
+    <string name="create_plan_prompt">Create your first meal plan to get started</string>
+    <string name="create_plan">Create Plan</string>
+    <string name="edit_plan">Edit Plan</string>
+    <string name="delete_plan">Delete Plan</string>
+    <string name="confirm_delete_plan">Are you sure you want to delete this meal plan?</string>
+    <string name="plan_title">Plan Title</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="start_date">Start Date</string>
+    <string name="calendar">Calendar</string>
+    <string name="plan_info">This will create a 7-day meal plan starting from the selected date.</string>
+    <string name="create">Create</string>
+    <string name="back">Back</string>
+    <string name="add_meal">Add Meal</string>
+    <string name="add_meal_for_day">Add Meal for %s</string>
+    <string name="recipe">Recipe</string>
+    <string name="meal_type">Meal Type</string>
+    <string name="notes_optional">Notes (optional)</string>
+    <string name="view_recipe">View Recipe</string>
+    <string name="remove_meal">Remove Meal</string>
+    <string name="confirm_remove_meal">Are you sure you want to remove this meal from the plan?</string>
+    <string name="remove">Remove</string>
+    <string name="no_meals">No meals</string>
+    <string name="no_meals_for_day">No meals planned for this day</string>
+    <string name="add_meal_prompt">Tap the + button to add a meal</string>
+    <string name="invalid_servings">Servings must be at least 1</string>
+    <string name="plan_updated">Meal plan updated</string>
+    <string name="meal_added">Meal added to plan</string>
+    <string name="meal_removed">Meal removed from plan</string>
+    <plurals name="meal_count">
+        <item quantity="one">%d meal</item>
+        <item quantity="other">%d meals</item>
+    </plurals>
+    <string-array name="recipe_categories">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Appetizer</item>
+        <item>Soup</item>
+        <item>Salad</item>
+        <item>Main Course</item>
+        <item>Side Dish</item>
+        <item>Dessert</item>
+        <item>Snack</item>
+        <item>Beverage</item>
+        <item>Other</item>
+    </string-array>
+</resources>
